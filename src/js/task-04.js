@@ -8,6 +8,7 @@ const valueSpan = document.querySelector('#value');
 let counterValue = 0;
 
 
+
 // Оновлення лічільника та інтерфейсу //
 function updateCounterValue(newValue) {
     counterValue = newValue;
